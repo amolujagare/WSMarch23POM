@@ -34,6 +34,7 @@ public class Login {
     public void clickLogin()
     {
        btnLogin.click();
+        System.out.println("click operation is done");
     }
 
 }
