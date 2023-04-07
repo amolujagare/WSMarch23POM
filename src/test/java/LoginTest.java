@@ -15,5 +15,7 @@ public class LoginTest {
         login.setTxtUsername("admin");
         login.setTxtPassword("admin");
         login.clickLogin();
+
+        System.out.println("amol");
     }
 }
